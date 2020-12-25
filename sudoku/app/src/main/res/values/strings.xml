@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sudoku</string>
+    <!--<string name="instructions">Fill in the numbers and click:</string>-->
+    <string name="instructions"></string>
+    <string name="solve">SOLVE!</string>
+    <string name="hint_zero">0</string>
+</resources>
